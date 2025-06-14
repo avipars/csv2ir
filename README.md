@@ -9,7 +9,7 @@ For a repo of .ir files, please see https://github.com/logickworkshop/Flipper-IR
 ## Usage
 
 ```
-csv2ir.py [-h] [--protocol PROTOCOL] input_path output_path
+csv2ir.py [-h] input_path output_path
 ```
 
 ## Contributing
